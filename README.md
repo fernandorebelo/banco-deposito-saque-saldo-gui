@@ -2,7 +2,7 @@
 
 Aplicação desenvolvida através do [Curso developer TI - Full stack](https://www.devtisul.com.br/) 
 
-É possível acompanhar o andamento do curso por aqui: [Course Java Developer TI](https://github.com/fernandorebelo/curso-developer-ti-java).
+É possível acompanhar o meu andamento no curso por aqui: [Course Java Developer TI](https://github.com/fernandorebelo/curso-developer-ti-java).
 
 ## Funcionalidades
 Métodos de depósito, saque e saldo.
